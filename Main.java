@@ -1,5 +1,6 @@
 class Main {
       public static void main(String[] args) {
-       System.out.println();
+//     「高橋洋平GoGo!」と標示させてみよう。
+
      }
    }
